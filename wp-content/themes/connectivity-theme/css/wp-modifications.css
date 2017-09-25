@@ -1,0 +1,111 @@
+/* Default Wordpress Styles */
+
+.alignnone {
+    margin: 5px 20px 20px 0 !important;
+	}
+
+.aligncenter,
+div.aligncenter {
+    display: block !important;
+    margin: 5px auto 5px auto !important;
+    text-align: center;
+	}
+	
+	.center {
+		text-align: center;
+	}
+
+.alignright {
+    float:right !important;
+    margin: 5px 0 20px 20px !important;
+	}
+	
+	.right {
+		float:  right;
+	}
+
+.alignleft {
+    float: left !important;
+    margin: 5px 20px 20px 0 !important;
+	}
+	
+	.left {
+		float:  left;
+	}
+
+.aligncenter {
+    display: block !important;
+    margin: 5px auto 5px auto !important;
+	}
+
+a img.alignright {
+    float: right !important;
+    margin: 5px 0 20px 20px !important;
+	}
+
+a img.alignnone {
+    margin: 5px 20px 20px 0 !important;
+	}
+
+a img.alignleft {
+    float: left !important;
+    margin: 5px 20px 20px 0 !important;
+	}
+
+a img.aligncenter {
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+	}
+
+.wp-caption {
+    text-align: center !important;
+	display: inline-block !important;
+	}
+
+.wp-caption.alignnone {
+    margin: 5px 20px 20px 0 !important;
+	}
+
+.wp-caption.alignleft {
+    margin: 5px 20px 20px 0 !important;
+	}
+
+.wp-caption.alignright {
+    margin: 5px 0 20px 20px !important;
+	}
+	
+.wp-caption.aligncenter {
+    display:  inline-block !important;
+}
+
+.wp-caption img {
+    border: 0 none !important;
+    height: auto !important;
+    margin: 0 !important;
+    max-width: 98.5% !important;
+    padding: 0 !important;
+    width: auto !important;
+	}
+
+.wp-caption p.wp-caption-text {
+    font-size: 9pt !important;
+	line-height: 11pt !important;
+	font-style: italic;
+    margin: 10px 10% 0px 10%;
+    padding: 0 4px 5px;
+    width: 80%;
+    color: #666;
+}
+
+/* WP Hack */
+
+#wp-admin-bar-customize {
+	display: none;
+}
+
+ul#wp-admin-bar-my-sites-list li .ab-sub-wrapper ul li:nth-child(2), 
+ul#wp-admin-bar-my-sites-list li .ab-sub-wrapper ul li:nth-child(3) {
+    display: none;
+}
+

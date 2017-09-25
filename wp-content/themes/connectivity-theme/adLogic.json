@@ -1,0 +1,160 @@
+[{
+	"usPlacements": {
+		"package_one": {
+			"top": {
+				"desktop": 0.22,
+				"mobile": 0.22
+			},
+			"middle": {
+				"desktop": 0.42,
+				"mobile": 0.42
+			},
+			"bottom": {
+				"desktop": 0,
+				"mobile": 0
+			}
+		},
+		"package_two": {
+			"top": {
+				"desktop": 0.15,
+				"mobile": 0.15
+			},
+			"middle": {
+				"desktop": 0.20,
+				"mobile": 0.20
+			},
+			"bottom": {
+				"desktop": 0,
+				"mobile": 0
+			}
+		},
+		"package_three": {
+			"top": {
+				"desktop": 0.08,
+				"mobile": 0.08
+			},
+			"middle": {
+				"desktop": 0,
+				"mobile": 0
+			},
+			"bottom": {
+				"desktop": 0.06,
+				"mobile": 0
+			}
+		},
+		"package_four": {
+			"top": {
+				"desktop": 0,
+				"mobile": 0
+			},
+			"middle": {
+				"desktop": 0.09,
+				"mobile": 0.09
+			},
+			"bottom": {
+				"desktop": 0.14,
+				"mobile": 0
+			}
+		},
+		"package_five": {
+			"top": {
+				"desktop": 0,
+				"mobile": 0
+			},
+			"middle": {
+				"desktop": 0,
+				"mobile": 0
+			},
+			"bottom": {
+				"desktop": 0.06,
+				"mobile": 0
+			}
+		}
+	},
+	"caPlacements": {
+		"package_one": {
+			"top": {
+				"desktop": 0.13,
+				"mobile": 0.40
+			},
+			"middle": {
+				"desktop": 0.40,
+				"mobile": 0.24
+			},
+			"bottom": {
+				"desktop": 0,
+				"mobile": 0
+			}
+		},
+		"package_two": {
+			"top": {
+				"desktop": 0.10,
+				"mobile": 0.20
+			},
+			"middle": {
+				"desktop": 0.20,
+				"mobile": 0.10
+			},
+			"bottom": {
+				"desktop": 0,
+				"mobile": 0
+			}
+		},
+		"package_three": {
+			"top": {
+				"desktop": 0.09,
+				"mobile": 0.20
+			},
+			"middle": {
+				"desktop": 0.10,
+				"mobile": 0
+			},
+			"bottom": {
+				"desktop": 0,
+				"mobile": 0
+			}
+		},
+		"package_four": {
+			"top": {
+				"desktop": 0.07,
+				"mobile": 0
+			},
+			"middle": {
+				"desktop": 0.05,
+				"mobile": 0.10
+			},
+			"bottom": {
+				"desktop": 0,
+				"mobile": 0
+			}
+		},
+		"package_five": {
+			"top": {
+				"desktop": 0.04,
+				"mobile": 0
+			},
+			"middle": {
+				"desktop": 0,
+				"mobile": 0.06
+			},
+			"bottom": {
+				"desktop": 0.10,
+				"mobile": 0
+			}
+		},
+		"package_six": {
+			"top": {
+				"desktop": 0.04,
+				"mobile": 0
+			},
+			"middle": {
+				"desktop": 0,
+				"mobile": 0.03
+			},
+			"bottom": {
+				"desktop": 0.09,
+				"mobile": 0
+			}
+		}
+	}
+}]

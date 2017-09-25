@@ -1,0 +1,72 @@
+/* For Displaying Email Code */
+
+html {
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.preview, .preview-ads {
+    display: none;
+}
+
+textarea {
+    margin:  0px 5%;
+    width: 90%;
+    padding:  10px;
+    border:  1px solid #ccc;
+    height: 600px;
+    font-family: Courier, Courier New, monospace;
+}
+
+h2 {
+    text-align: center;
+}
+
+/* Email CSS */
+
+body {
+    margin:  0px;
+    padding: 0px;
+    font-family: Arial, Verdana;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+p.date {
+    color:  #636466;
+    text-align: right;
+    text-transform: uppercase;
+    margin: 0px;
+    padding: 0px 20px;
+}
+
+p.title {
+    font-size: 22px;
+    line-height: 26px;
+    color: #00b7d5;
+    font-weight: bold;
+}
+
+p.link {
+    text-align: right;
+}
+    p.link a {
+        padding:  10px 20px;
+        background-color: #00b7d5;
+        color: #ffffff;
+        text-decoration: none;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        border-radius: 5px;
+        font-size: 12px;
+    }
+p.link.promotions {
+    text-align: center;
+    width: 100%;
+}
+    p.link.promotions a {
+        display: block;
+        font-size: 20px;
+        font-weight: bold;
+        padding:  15px 0px;
+    }

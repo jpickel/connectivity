@@ -1,0 +1,81 @@
+/* CSS Document */
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+#acf- img {
+    width:  50%;
+    min-width: 250px;
+}
+
+#multisite_clone_metabox {
+    display: none;
+}
+
+#acf-top_placement_collateral, #acf-top_placement_url, #acf-secondary_placement_collateral, #acf-secondary_placement_url, #acf-mobile_collateral, #acf-tertiary_placement_collateral, #acf-tertiary_placement_url {
+    clear: both;
+} 
+
+li#wp-admin-bar-my-account {
+	white-space: nowrap;
+}
+
+li.wp-menu-separator {
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    background-color: #111111;
+}
+
+li.menu-icon-issues:before {
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    background-color: #111111;
+    height: 5px;
+    content: "";
+    display: block;
+}
+
+ul#wp-admin-bar-my-sites-list li .ab-sub-wrapper ul li:nth-child(2), 
+ul#wp-admin-bar-my-sites-list li .ab-sub-wrapper ul li:nth-child(3) {
+    display: none;
+}
+
+#acf-top_placement_collateral, #acf-secondary_placement_collateral, #acf-tertiary_placement_collateral {
+    width: 40%;
+    float: left;
+    clear: both;
+    margin-bottom:  20px;
+}
+
+#acf-top_placement_url, #acf-secondary_placement_url, #acf-tertiary_placement_url {
+    width: 55%;
+    float: left;
+    margin-bottom:  20px;
+}
+
+#acf-hide_ads {
+    border: 1px solid #e5e5e5 ;
+    padding: 0px;
+    background-color: #fff;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+}
+
+    #acf-hide_ads p.label {
+        border-bottom: 1px solid #eee;
+        padding: 10px 10px 5px 10px;
+    }
+
+     #acf-hide_ads ul {
+         padding: 0px 10px 10px 10px
+     }
+
+        #acf-hide_ads ul:after {
+            content: "when checked, all ads on this page will be removed";
+            font-size: 8pt;
+            color: #999;
+            font-family: serif;
+            font-style: italic;
+            margin-left: 23px;
+        }
